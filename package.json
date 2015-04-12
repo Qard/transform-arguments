@@ -1,0 +1,40 @@
+{
+  "name": "transform-arguments",
+  "version": "1.0.0",
+  "description": "Transforms input arguments based on a searching spec",
+  "author": "Stephen Belanger <admin@stephenbelanger.com>",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "prepublish": "gulp build",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "homepage": "https://github.com/Qard/transform-arguments",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Qard/transform-arguments.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qard/transform-arguments/issues"
+  },
+  "keywords": [
+    "transform",
+    "arguments"
+  ],
+  "dependencies": {
+    "bluebird": "~2.9.24",
+    "concat-stream": "~1.4.8"
+  },
+  "devDependencies": {
+    "babel": "~5.0.12",
+    "gulp": "~3.8.11",
+    "gulp-babel": "~5.1.0",
+    "gulp-mocha": "~2.0.1",
+    "should": "~5.2.0",
+    "through2": "~0.6.5"
+  }
+}
