@@ -26,15 +26,15 @@
     "arguments"
   ],
   "dependencies": {
-    "bluebird": "~2.9.24",
-    "concat-stream": "~1.4.8"
+    "bluebird": "~3.5.0",
+    "concat-stream": "~1.6.0"
   },
   "devDependencies": {
-    "babel": "~5.0.12",
-    "gulp": "~3.8.11",
-    "gulp-babel": "~5.1.0",
-    "gulp-mocha": "~2.0.1",
-    "should": "~5.2.0",
-    "through2": "~0.6.5"
+    "babel": "~6.23.0",
+    "gulp": "~3.9.1",
+    "gulp-babel": "~7.0.0",
+    "gulp-mocha": "~4.3.1",
+    "should": "~13.1.0",
+    "through2": "~2.0.3"
   }
 }
