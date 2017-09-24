@@ -1,5 +1,7 @@
 # transform-arguments
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Qard/transform-arguments.svg)](https://greenkeeper.io/)
+
 This is useful for transforming a set of arguments to match what is expected
 by another function.
 
